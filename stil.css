@@ -1,6 +1,6 @@
 body{
     font-family: poppins;
-    background: #5644b3;
+    background: radial-gradient(circle 50vw at 100% 0, #ff06ff, transparent), radial-gradient(circle 50vw at 20% 25vw, #ff06ff, transparent), linear-gradient(180deg, #ff06ff, #ff06ff 25vw, #6900ff 50vw);
 }
 ul.liste{
     display: grid;
